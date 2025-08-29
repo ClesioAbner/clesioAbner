@@ -4,7 +4,7 @@
 - 🔭 Agora estou trabalhando com front-end e um pouco de back-end.
 - 🌱 Estou aprendendo React, TypeScript e Flutter.
 - 📫 contacta-me no email eclesioabner@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 He/Him
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -23,4 +23,4 @@
   <a href = "mailto:eclesioabner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
--->
+
