@@ -3,7 +3,6 @@
 
 - 🔭 Agora estou trabalhando com front-end e um pouco de back-end.
 - 🌱 Estou aprendendo React, TypeScript e Flutter.
-- 📫 contacta-me no email eclesioabner@gmail.com
 - 😄 He/Him
 
 <div style="display: inline_block"><br>
