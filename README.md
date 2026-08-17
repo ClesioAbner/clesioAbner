@@ -2,8 +2,8 @@
 
 💻 Desenvolvedor de Software 
 
-- 🔭 FullStack Developer
--    Foco em construir aplicações modernas e escaláveis
+-     FullStack Developer
+-     Foco em construir aplicações modernas e escaláveis
 -     He/Him  
 
 
