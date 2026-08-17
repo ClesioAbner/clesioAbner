@@ -1,9 +1,8 @@
 ##  Olá, eu sou Eclésio Abner Pembelane  
 
-💻 Programador Júnior | Desenvolvedor de Software em crescimento  
+💻 Desenvolvedor de Software 
 
-- 🔭 Atualmente trabalhando com **Front-end e Back-end**
--    Aprendendo React, TypeScript e Flutter 
+- 🔭 FullStack Developer
 -    Foco em construir aplicações modernas e escaláveis
 -     He/Him  
 
